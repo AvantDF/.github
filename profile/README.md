@@ -32,7 +32,7 @@ Unindo diferentes vivências, talentos e habilidades, nossa missão é criar sol
 Confira abaixo a composição das nossas squads:
 
 <br/>
-<img align="left" height="118px" width="100px" alt="Metis" src="./assets/peoples.png"/>
+<img align="left" height="118px" width="100px" alt="Metis" src="../assets/peoples.png"/>
 
 **D'arc Mary** \
 [**Desenvolvedora Full Stack**]() • Freelancer \
@@ -41,7 +41,7 @@ Redes sociais: [`Linkedin`](), [`Github`]()
 <br/>
 
 <br/>
-<img align="left" height="118px" width="100px" alt="Metis" src="./assets/peoples.png"/>
+<img align="left" height="118px" width="100px" alt="Metis" src="../assets/peoples.png"/>
 
 **Luan Lucky** \
 [**Desenvolvedor Full Stack**]() • Freelancer \
@@ -50,7 +50,7 @@ Redes sociais: [`Linkedin`](), [`Github`]()
 <br/>
 
 <br/>
-<img align="left" height="118px" width="100px" alt="Metis" src="./assets/peoples.png"/>
+<img align="left" height="118px" width="100px" alt="Metis" src="../assets/peoples.png"/>
 
 **Stéffane Leal** \
 [**Desenvolvedora Full Stack**]() • Freelancer \
@@ -59,7 +59,7 @@ Redes sociais: [`Linkedin`](), [`Github`]()
 <br/>
 
 <br/>
-<img align="left" height="118px" width="100px" alt="Metis" src="./assets/Gomides.jpg"/>
+<img align="left" height="118px" width="100px" alt="Metis" src="../assets/Gomides.jpg"/>
 
 **Tiago Gomides** \
 [**Desenvolvedor Full Stack**](https://tiagogomides.com.br/) • Freelancer \
@@ -69,7 +69,7 @@ Redes sociais: [`Linkedin`](https://www.linkedin.com/in/gomides-tiago/), [`Githu
 
 
 <br/>
-<img align="left" height="118px" width="100px" alt="Metis" src="./assets/peoples.png"/>
+<img align="left" height="118px" width="100px" alt="Metis" src="../assets/peoples.png"/>
 
 **Vinicius Tenchini** \
 [**Desenvolvedor Full Stack**]() • Freelancer \
