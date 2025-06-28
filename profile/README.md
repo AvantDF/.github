@@ -55,7 +55,7 @@ Redes sociais: [`Linkedin`](), [`Github`]()
 **Stéffane Leal** \
 [**Desenvolvedora Full Stack**]() • Freelancer \
 Linguagens & Tecnologias: _`Next`_, _`Tailwind`_, _`React`_, _`React Native`_,_`Git`_,_`GitHub`_,_`Figma`_.\
-Redes sociais: [`Linkedin`](), [`Github`]()
+Redes sociais: [`[Linkedin]`](https://www.linkedin.com/in/steffane-leal-287873223/), [`[Github]`](https://github.com/steffaneleal)
 <br/>
 
 <br/>
