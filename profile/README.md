@@ -50,7 +50,7 @@ Redes sociais: [`Linkedin`](), [`Github`]()
 <br/>
 
 <br/>
-<img align="left" height="118px" width="100px" alt="Metis" src="../assets/peoples.png"/>
+<img align="left" height="118px" width="100px" alt="Metis" src="../assets/Steffane.png"/>
 
 **Stéffane Leal** \
 [**Desenvolvedora Full Stack**]() • Freelancer \
